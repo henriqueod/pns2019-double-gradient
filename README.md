@@ -4,7 +4,7 @@ Analysis code for the manuscript:
 
 > Dumay, HO. *The double socioeconomic gradient of mental health care in Brazil: access to care resources and unmet need among people aged 15 years or older with a diagnosed mental disorder in the 2019 National Health Survey.* Manuscript under review.
 
-Archived version of this code: [Zenodo DOI, to be added after the first release].
+Archived version of this code: https://doi.org/10.5281/zenodo.23624471.
 
 The code estimates income gradients in mental health care among respondents of the 2019 Brazilian National Health Survey (Pesquisa Nacional de Saúde, PNS) who reported a professional diagnosis of depression or another mental illness (n = 10,956). It uses design-based survey regression throughout: the relative index of inequality (RII) comes from modified Poisson models, and the slope index of inequality (SII) comes from linear probability models, both with a weighted income ridit as the exposure.
 
