@@ -4,8 +4,12 @@ title: "Analysis code: The double socioeconomic gradient of mental health care i
 type: software
 authors:
   - family-names: "Dumay"
-    given-names: "Henrique"
+    given-names: "Henrique Oliveira"
     orcid: "https://orcid.org/0000-0001-9328-4441"
+  # - family-names: "Sobrenome da orientadora 1"
+  #   given-names: "Nome"
+  # - family-names: "Sobrenome da orientadora 2"
+  #   given-names: "Nome"
 repository-code: "https://github.com/henriqueod/pns2019-double-gradient"
 license: MIT
 version: "1.0.0"
