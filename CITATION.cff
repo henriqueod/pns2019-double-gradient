@@ -15,7 +15,7 @@ license: MIT
 version: "1.0.0"
 date-released: "2026-10-24"
 # After the first GitHub release is archived by Zenodo, add the version DOI here:
-# doi: "10.5281/zenodo.[NUMBER]"
+doi: "10.5281/zenodo.23624471"
 keywords:
   - mental health services
   - health inequalities
