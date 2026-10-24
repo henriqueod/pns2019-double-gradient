@@ -2,7 +2,7 @@
 
 Analysis code for the manuscript:
 
-> Dumay, Henrique. *The double socioeconomic gradient of mental health care in Brazil: access to care resources and unmet need among people aged 15 years or older with a diagnosed mental disorder in the 2019 National Health Survey.* [Journal, year, DOI: to be added on publication.]
+> Dumay, HO. *The double socioeconomic gradient of mental health care in Brazil: access to care resources and unmet need among people aged 15 years or older with a diagnosed mental disorder in the 2019 National Health Survey.* Manuscript under review.
 
 Archived version of this code: [Zenodo DOI, to be added after the first release].
 
