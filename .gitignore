@@ -1,0 +1,27 @@
+# Microdata and derived person-level files (never commit)
+data_pnsibge/
+*.rds
+*.RData
+*.zip
+*.txt.gz
+results/
+figures/
+
+# Keep the session record that documents the published run
+!session_info/
+session_info/pipeline_timing.csv
+
+# R / RStudio
+.Rhistory
+.Rproj.user/
+.Ruserdata
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
